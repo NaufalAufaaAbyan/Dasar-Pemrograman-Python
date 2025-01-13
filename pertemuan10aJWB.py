@@ -1,11 +1,29 @@
-values = []
+vn = []
 
-for i in range(1,6):  # range(1, 6) menghasilkan 1, 2, 3, 4, 5
-    value = input(f"Masukkan nilai ke-{i}: ")
-    values.append(value)
+for a in range(1, 6, 1):
+    vn.append(input(f"Masukkan nilai ke-{a} : "))
 
-print("\nTampilkan Lagi Datanya")
+print()
+print("Tampilkan Lagi Datanya")
 print("---------------------------")
 
-for i, value in enumerate(values, start=1):  # start=1 agar indeks dimulai dari 1
-    print(f"Nilai ke-{i}: {value}")
+for a in range(1, 6, 1):
+    print(f"Nilai ke-{a} : {vn[a-1]}")
+
+
+
+
+# Contoh Kode 2 
+# vn = []
+
+# Memasukkan nilai dari 1 sampai 5
+# for a in range(0, 5, 1):
+    # vn.append(input(f"Masukkan nilai ke-{a+1} : "))
+
+# print()
+# print("Tampilkan Lagi Datanya")
+# print("---------------------------")
+
+# Menampilkan nilai dari 1 sampai 5
+# for a in range(0, 5, 1):
+    # print(f"Nilai ke-{a+1} : {vn[a]}")
