@@ -66,13 +66,15 @@ Skrip untuk mengumpulkan dan menampilkan kembali 5 nilai yang dimasukkan penggun
 3. Navigasikan ke direktori tempat skrip berada.
 4. Jalankan skrip dengan perintah `python nama_skrip.py`.
 
-Contoh:
-```sh
-python 3sgt.py
-
 ## Lisensi
 Proyek ini dilisensikan di bawah MIT License.
 
 ## Hak Cipta 
 Copyright © 2025 Naufal Aufaa Abyan
+
+Contoh:
+```sh
+python 3sgt.py
+
+
 
