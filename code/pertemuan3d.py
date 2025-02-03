@@ -1,6 +1,6 @@
-a=7
-b=3.14
-c="unama"
+a="Hello, Boys!"
+b="Hello, Girl!"
+c="Hello, World!"
 print(a)
 print(b)
 print(c)

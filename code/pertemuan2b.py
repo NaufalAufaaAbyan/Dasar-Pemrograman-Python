@@ -1,4 +1,4 @@
-print("Biodata Mahasiswa Unama Jambi  : ")
+print("Biodata Mahasiswa   : ")
 print("=============================  : ")
 print("")
 input("NIM  : ")
