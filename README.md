@@ -56,8 +56,6 @@ Skrip untuk menampilkan elemen-elemen dari beberapa daftar.
 ### 12. [pertemuan10a.py](pertemuan10a.py)
 Skrip untuk mengumpulkan dan menampilkan kembali 10 nilai yang dimasukkan pengguna.
 
-### 13. [pertemuan10aJWB.py](pertemuan10aJWB.py)
-Skrip untuk mengumpulkan dan menampilkan kembali 5 nilai yang dimasukkan pengguna.
 
 ## Cara Menjalankan Skrip
 
